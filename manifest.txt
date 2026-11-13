@@ -1,5 +1,5 @@
 version=2.5
-notes=Muc phien ban mau xanh o cuoi menu Prepress Tools, kiem tra cap nhat ngay trong Acrobat
+notes=Mục phiên bản màu xanh ở cuối menu Prepress Tools, bấm vào để kiểm tra bản mới ngay trong Acrobat.
 file=PrepressBleedService.exe|3709de2e248406ddfe81dc93f178d0212d53a76c4e7ad2ddd96d579fe81e4106|1309441|https://raw.githubusercontent.com/hei909/prepress-tools-update/main/files/2.5/PrepressBleedService.exe
 file=core/PrepressToolsCore_2.5_x64.dll|3f69fef80216f2fe634dc537ff05b699ca8d773022224d960d76f06c0cd0f999|554496|https://raw.githubusercontent.com/hei909/prepress-tools-update/main/files/2.5/PrepressToolsCore_2.5_x64.dll
 file=core/PrepressToolsCore_2.5_x86.dll|38282980a10aa25895773cf444766e61c2122acdb460ce0a9d49f607f7dfc6c0|636416|https://raw.githubusercontent.com/hei909/prepress-tools-update/main/files/2.5/PrepressToolsCore_2.5_x86.dll
