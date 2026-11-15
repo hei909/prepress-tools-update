@@ -1,7 +1,7 @@
-version=2.8
-notes=Nối Quite Imposing Plus: menu và nút Quite trong Prepress Tools có đủ mọi chức năng. Sửa lỗi file tên tiếng Việt có dấu không lưu được kết quả; file kết quả đang mở thì tự lưu tên mới (2).
-file=PrepressBleedService.exe|283f29c63bf35277e8dc0ad40387503772bff25862df1bceffe139ea03d1f817|1433580|https://raw.githubusercontent.com/hei909/prepress-tools-update/main/files/2.8/PrepressBleedService.exe
-file=core/PrepressToolsCore_2.8_x64.dll|281f8f2c0b73eb6a49e7bc9858d83ccb140d6b28707d8872dce2853973b23f4e|688640|https://raw.githubusercontent.com/hei909/prepress-tools-update/main/files/2.8/PrepressToolsCore_2.8_x64.dll
-file=core/PrepressToolsCore_2.8_x86.dll|8b92fe255b78683fc4fbebd772d9027299cd43c4821fa4036588e371bc46a786|785920|https://raw.githubusercontent.com/hei909/prepress-tools-update/main/files/2.8/PrepressToolsCore_2.8_x86.dll
-pointer=core/current_x64.txt|PrepressToolsCore_2.8_x64.dll
-pointer=core/current_x86.txt|PrepressToolsCore_2.8_x86.dll
+version=2.9
+notes=Gọn menu: tạm ẩn Chuyển RGB → CMYK, Chữ đen K100 và Dàn trang riêng (chưa hoàn thiện). Đánh dấu ★ cho Bù bleed.
+file=PrepressBleedService.exe|283f29c63bf35277e8dc0ad40387503772bff25862df1bceffe139ea03d1f817|1433580|https://raw.githubusercontent.com/hei909/prepress-tools-update/main/files/2.9/PrepressBleedService.exe
+file=core/PrepressToolsCore_2.9_x64.dll|f2674bed64dc0855e42c79fb360035501241c9d482554ecc7f590bd5e1559905|670720|https://raw.githubusercontent.com/hei909/prepress-tools-update/main/files/2.9/PrepressToolsCore_2.9_x64.dll
+file=core/PrepressToolsCore_2.9_x86.dll|a3f22f37a143908897fd4d110261a950bf27d7af507f0dbeb2726e818f5bd9bb|768000|https://raw.githubusercontent.com/hei909/prepress-tools-update/main/files/2.9/PrepressToolsCore_2.9_x86.dll
+pointer=core/current_x64.txt|PrepressToolsCore_2.9_x64.dll
+pointer=core/current_x86.txt|PrepressToolsCore_2.9_x86.dll
