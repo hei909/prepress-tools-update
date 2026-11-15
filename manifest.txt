@@ -1,7 +1,7 @@
-version=2.9
-notes=Gọn menu: tạm ẩn Chuyển RGB → CMYK, Chữ đen K100 và Dàn trang riêng (chưa hoàn thiện). Đánh dấu ★ cho Bù bleed.
-file=PrepressBleedService.exe|283f29c63bf35277e8dc0ad40387503772bff25862df1bceffe139ea03d1f817|1433580|https://raw.githubusercontent.com/hei909/prepress-tools-update/main/files/2.9/PrepressBleedService.exe
-file=core/PrepressToolsCore_2.9_x64.dll|f2674bed64dc0855e42c79fb360035501241c9d482554ecc7f590bd5e1559905|670720|https://raw.githubusercontent.com/hei909/prepress-tools-update/main/files/2.9/PrepressToolsCore_2.9_x64.dll
-file=core/PrepressToolsCore_2.9_x86.dll|a3f22f37a143908897fd4d110261a950bf27d7af507f0dbeb2726e818f5bd9bb|768000|https://raw.githubusercontent.com/hei909/prepress-tools-update/main/files/2.9/PrepressToolsCore_2.9_x86.dll
-pointer=core/current_x64.txt|PrepressToolsCore_2.9_x64.dll
-pointer=core/current_x86.txt|PrepressToolsCore_2.9_x86.dll
+version=3.0
+notes=Quite Imposing Plus chuyển hẳn vào menu Prepress Tools (menu Plug-ins thôi hiện), mọi chức năng của Quite vẫn dùng như cũ.
+file=PrepressBleedService.exe|283f29c63bf35277e8dc0ad40387503772bff25862df1bceffe139ea03d1f817|1433580|https://raw.githubusercontent.com/hei909/prepress-tools-update/main/files/3.0/PrepressBleedService.exe
+file=core/PrepressToolsCore_3.0_x64.dll|e2d956e31b1ab528356fc457ba6112f3ea243281025847ea09314f8aca36e5c1|670720|https://raw.githubusercontent.com/hei909/prepress-tools-update/main/files/3.0/PrepressToolsCore_3.0_x64.dll
+file=core/PrepressToolsCore_3.0_x86.dll|ee670ef0b96d9347acb3e8c98c0791a7fefca95e761c027599e35a495face7b6|767488|https://raw.githubusercontent.com/hei909/prepress-tools-update/main/files/3.0/PrepressToolsCore_3.0_x86.dll
+pointer=core/current_x64.txt|PrepressToolsCore_3.0_x64.dll
+pointer=core/current_x86.txt|PrepressToolsCore_3.0_x86.dll
